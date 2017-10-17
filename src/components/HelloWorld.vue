@@ -76,7 +76,7 @@ export default {
           text: '前两个月',
           onClick (picker) {
             const now = new Date()
-            now.setMonth(now.getMonth() - 2)
+            now.setMonth(now.getMonth())
             now.setDate(1)
             now.setTime(now.getTime() - 3600 * 1000 * 24)
 

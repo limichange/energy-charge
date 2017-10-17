@@ -1,6 +1,6 @@
 # energy-charge
 
-> A Vue.js project
+> 合租用来计算电费用的
 
 ## Build Setup
 
