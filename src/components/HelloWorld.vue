@@ -99,7 +99,7 @@ export default {
       fare: 0,
       allPeopleDay: 0,
       roomInfo: [],
-      keyArray: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
+      keyArray: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q']
     }
   },
   watch: {
